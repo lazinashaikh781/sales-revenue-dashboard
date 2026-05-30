@@ -1,36 +1,42 @@
 
+
 # Sales & Revenue Analysis Dashboard
 
 ## Project Overview
 
-This Power BI dashboard analyzes sales performance using the Superstore dataset. The dashboard provides insights into revenue trends, top-performing products, customer segments, and regional sales performance.
+This project presents a Sales & Revenue Analysis Dashboard built using Power BI. The dashboard provides insights into sales trends, top-performing products, customer behavior, and regional performance.
+
+## Dashboard Preview
+
+
+<img width="923" height="525" alt="image" src="https://github.com/user-attachments/assets/9c551847-8ee1-4c44-8a08-928d2de2ef79" />
+<img width="923" height="526" alt="Screenshot 2026-05-30 205930" src="https://github.com/user-attachments/assets/00f8af45-725f-4335-9f19-fe1c9ff6cb4e" />
+
 
 ## Business Questions Answered
 
-* What are the total sales and total orders?
+* What are the total sales?
 * Which products generate the highest revenue?
 * Which regions contribute the most sales?
 * Who are the top customers?
-* How do sales change over time?
+* Which customer segments drive revenue?
 
 ## Tools Used
 
 * Power BI
-* Excel / CSV Dataset
+* CSV Dataset
 * GitHub
-
-## Dashboard Features
-
-* KPI Cards
-* Sales Trend Analysis
-* Product Performance Analysis
-* Customer Analysis
-* Regional Analysis
-* Interactive Filters and Slicers
 
 ## Files Included
 
-* Power BI Dashboard (.pbix)
-* Dashboard PDF
-* Dataset
-* Dashboard Screenshots
+* SALES INTERSHIP PDF.pdf
+* train.csv
+
+
+## Key Insights
+
+* Sales trends analyzed over time
+* Regional performance comparison
+* Product category analysis
+* Customer segmentation analysis
+* Interactive filtering and exploration
